@@ -28,5 +28,5 @@ Rodapé com informações adicionais
 ✍️ Autor
 Desenvolvido por Kayo Victior Vilar Silva
 📍 João Pessoa - PB
-📧 kayovictorvilar@exemplo.com
-🔗 LinkedIn
+📧 kayovictorvilar@gmail.com
+🔗 LinkedIn :https://www.linkedin.com/in/kayo-victor-vilar-silva-299008279/
